@@ -1,0 +1,7 @@
+{
+  "name": "灵动绘图 (AI Visualizer)",
+  "description": "一个将文字一键转化为流程图、数据图表、思维导图及 AI 示意图的智能工具。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
